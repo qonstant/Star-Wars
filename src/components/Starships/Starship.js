@@ -8,6 +8,9 @@ const Starship = ({ starship }) => {
       <p>Manufacturer: {starship.manufacturer}</p>
       <p>Length: {starship.length}</p>
       <p>Maximum Speed: {starship.max_atmosphering_speed}</p>
+      <p>Passengers: {starship.passengers}</p>
+      <p>Starship Class: {starship.starship_class}</p>
+      <p>Cost In Credits: {starship.cost_in_credits}</p>
     </div>
   );
 };
