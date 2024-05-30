@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background: url('https://i.pinimg.com/originals/d7/a6/11/d7a61190a836bdcfc62bf97af4f4c74b.png') no-repeat center center fixed;
+  background-size: cover;
+  color: rgb(212, 206, 206);
+  text-align: center;
+}
+.App {
+  width: 960px;
+  margin: 80px auto;
+}
+h1 {
+  color: #FFC008;
+  font-size: 4em;
+  letter-spacing: 2px;
+}
+.content {
+  text-align: left;
+}
+
+.footer {
+  padding-top: 48px;
+}
+
+.top-image {
+  display: block;
+  margin: 0 auto;
+  width: 30%;
+  max-width: 600px;
+  height: auto;
+}
