@@ -46,7 +46,7 @@ Navigation bar:
 
 ### Landing page with "**Star Wars**" effect
 
-This "**Star Wars**" effect was manifested by using CSS transformations such as rotateX, rotateY and scaling.
+This "Star Wars" effect was created using CSS transformations such as rotateX, rotateY, and scaling. To start this effect, you need to click on the Star Wars logo.
 
 <img width="1048" alt="3" src="https://github.com/qonstant/Star-Wars/assets/98641240/8fa4a7a5-787e-4b2b-9764-6ced7fa2a9ec">
 
